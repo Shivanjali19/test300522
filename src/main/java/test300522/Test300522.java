@@ -30,7 +30,7 @@ public class Test300522 {
   	  	d.findElement(By.xpath("//*[@id=\"login\"]/div/div/div[2]/form/div/div[5]/button")).click();
   	  	Thread .sleep(1000);
 	   
-	d.close();
+ 
 	
 	
 	}
